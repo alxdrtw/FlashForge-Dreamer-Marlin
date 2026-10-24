@@ -1,4 +1,4 @@
-# Dreamer Studio 2.0
+# Dreamer Studio 2.0 ONLY RU
 
 **A portable Windows toolkit for the FlashForge Dreamer 3D printer.**
 
